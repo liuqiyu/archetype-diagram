@@ -265,6 +265,7 @@ paket-files/
 
 # JetBrains Rider
 .idea/
+.idea/workspace.xml
 *.sln.iml
 
 # CodeRush
@@ -286,4 +287,3 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
- .idea/ workspace.xml
