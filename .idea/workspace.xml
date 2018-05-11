@@ -2,605 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ddf08db-df3c-4659-89dc-99605fe616a6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/archetype-diagram.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/app前端技术需求分析.xmind" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/data/document.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/data/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/files/index/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/files/index/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/images/index/u10.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/images/index/u13.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/images/index/u14.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/images/index/u17.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/images/index/u42.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/images/index/u45.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/images/index/u59.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/images/index/u73.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/images/index/u75.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/images/index/u80.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/images/logo.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/inex.rp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/debug/styles/debug.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/debug/styles/images/reset.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/debug/styles/images/reset_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/debug/styles/images/variables_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/debug/styles/images/variables_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/debug/styles/images/variables_off.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/debug/styles/images/variables_off.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/debug/styles/images/variables_on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/debug/styles/images/variables_on.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/page_notes/styles/images/back.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/page_notes/styles/images/back.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/page_notes/styles/images/back_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/page_notes/styles/images/back_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/page_notes/styles/images/footnotes.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/page_notes/styles/images/footnotes.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/page_notes/styles/images/footnotes_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/page_notes/styles/images/footnotes_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/page_notes/styles/images/footnotes_on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/page_notes/styles/images/footnotes_on.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/page_notes/styles/images/forward.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/page_notes/styles/images/forward.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/page_notes/styles/images/forward_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/page_notes/styles/images/forward_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/page_notes/styles/images/notes_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/page_notes/styles/images/notes_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/page_notes/styles/images/notes_off.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/page_notes/styles/images/notes_off.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/page_notes/styles/images/notes_on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/page_notes/styles/images/notes_on.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/page_notes/styles/page_notes.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/recordplay/recordplay.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/recordplay/styles/recordplay.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/079_page_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/086_case_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/225_responsive_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/228_togglenotes_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/229_variables_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/231_event_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/232_search_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/233_hyperlink_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/235_folderclosed_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/236_folderopen_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/adaptivecheck.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/flow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/flow.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/folder_closed.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/folder_closed.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/folder_open.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/folder_open.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/hotspots.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/hotspots.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/hotspots_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/hotspots_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/hotspots_on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/hotspots_on.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/images.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/minus.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/note.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/note.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/page.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/page.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/plus.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/share.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/share.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/share_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/share_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/share_on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/share_on.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/sitemap_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/sitemap_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/sitemap_off.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/sitemap_off.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/sitemap_on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/sitemap_on.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/views.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/views.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/views_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/views_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/views_on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/images/views_on.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/plugins/sitemap/styles/sitemap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/Other.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/chrome/allow_access.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/chrome/axure-chrome-extension.crx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/chrome/axure_logo.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/chrome/axure_logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/chrome/chrome.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/chrome/extensions_menu.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/chrome/splitter.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/chrome/splitter.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/css/axure_rp_page.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/css/default.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/css/images/images.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/css/images/newwindow.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/css/images/note.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/css/images/ui-bg_flat_0_aaaaaa_40x100.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/css/images/ui-bg_glass_55_fbf9ee_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/css/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/css/images/ui-bg_glass_75_dadada_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/css/images/ui-bg_glass_75_e6e6e6_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/css/images/ui-bg_glass_75_ffffff_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/css/images/ui-bg_inset-soft_95_fef1ec_1x100.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/css/images/ui-icons_222222_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/css/images/ui-icons_2e83ff_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/css/images/ui-icons_454545_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/css/images/ui-icons_888888_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/css/images/ui-icons_cd0a0a_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/css/jquery-ui-themes.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/css/reset.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/expand.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/images/259_close_12rollover1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/images/259_close_12rollover2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/images/260_collapse_12rollover1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/images/260_collapse_12rollover2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/images/261_expand_12rollover1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/images/261_expand_12rollover2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/images/close.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/images/close.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/images/close_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/images/close_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/images/divider.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/images/divider.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/images/expand.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/images/expand.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/images/expand_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/images/expand_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/images/images.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/images/transparent.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/reload.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/scripts/jquery-1.7.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/scripts/jquery-ui-1.8.10.custom.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/scripts/messagecenter.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/scripts/player/axplayer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/scripts/player/splitter.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/scripts/prototypePost.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/scripts/prototypePre.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/scripts/startPost.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/resources/scripts/startPre.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/start.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/start_c_1.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/自动化投放/start_g_0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/123.rp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/data/document.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/data/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/files/index/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/files/index/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/files/page1/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/files/page1/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/files/page2/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/files/page2/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/files/page3/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/files/page3/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/files/已选区/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/files/已选区/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/files/待选区/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/files/待选区/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/files/登录/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/files/登录/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/files/编辑/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/files/编辑/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/files/选品区/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/files/选品区/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/logo.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/已选区/u324.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/已选区/u326.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/已选区/u339.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/已选区/u340.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/已选区/u341.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/已选区/u347.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/已选区/u387.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/已选区/u388.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/已选区/u409.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/已选区/u410.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/待选区/u143.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/待选区/u179.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/待选区/u187.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/待选区/u227.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/待选区/u228.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/编辑/u177.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/编辑/u178.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u107.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u115.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u12.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u123.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u124.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u125.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u126.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u127.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u128.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u129.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u130.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u131.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u132.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u133.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u134.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u135.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u136.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u144.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u145.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u146.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u147.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u148.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u149.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u150.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u153.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u155.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u158.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u159.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u160.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u161.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u179.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u180.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u182.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u19.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u20.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/images/选品区/u27.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/page1.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/page2.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/page3.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/debug/styles/debug.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/debug/styles/images/reset.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/debug/styles/images/reset_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/debug/styles/images/variables_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/debug/styles/images/variables_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/debug/styles/images/variables_off.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/debug/styles/images/variables_off.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/debug/styles/images/variables_on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/debug/styles/images/variables_on.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/page_notes/styles/images/back.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/page_notes/styles/images/back.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/page_notes/styles/images/back_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/page_notes/styles/images/back_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/page_notes/styles/images/footnotes.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/page_notes/styles/images/footnotes.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/page_notes/styles/images/footnotes_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/page_notes/styles/images/footnotes_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/page_notes/styles/images/footnotes_on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/page_notes/styles/images/footnotes_on.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/page_notes/styles/images/forward.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/page_notes/styles/images/forward.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/page_notes/styles/images/forward_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/page_notes/styles/images/forward_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/page_notes/styles/images/notes_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/page_notes/styles/images/notes_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/page_notes/styles/images/notes_off.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/page_notes/styles/images/notes_off.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/page_notes/styles/images/notes_on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/page_notes/styles/images/notes_on.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/page_notes/styles/page_notes.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/recordplay/recordplay.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/recordplay/styles/recordplay.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/079_page_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/086_case_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/225_responsive_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/228_togglenotes_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/229_variables_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/231_event_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/232_search_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/233_hyperlink_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/235_folderclosed_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/236_folderopen_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/adaptivecheck.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/flow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/flow.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/folder_closed.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/folder_closed.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/folder_open.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/folder_open.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/hotspots.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/hotspots.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/hotspots_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/hotspots_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/hotspots_on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/hotspots_on.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/images.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/minus.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/note.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/note.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/page.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/page.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/plus.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/share.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/share.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/share_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/share_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/share_on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/share_on.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/sitemap_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/sitemap_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/sitemap_off.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/sitemap_off.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/sitemap_on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/sitemap_on.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/views.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/views.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/views_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/views_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/views_on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/images/views_on.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/plugins/sitemap/styles/sitemap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/Other.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/chrome/allow_access.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/chrome/axure-chrome-extension.crx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/chrome/axure_logo.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/chrome/axure_logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/chrome/chrome.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/chrome/extensions_menu.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/chrome/splitter.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/chrome/splitter.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/css/axure_rp_page.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/css/default.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/css/images/images.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/css/images/newwindow.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/css/images/note.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/css/images/ui-bg_flat_0_aaaaaa_40x100.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/css/images/ui-bg_glass_55_fbf9ee_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/css/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/css/images/ui-bg_glass_75_dadada_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/css/images/ui-bg_glass_75_e6e6e6_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/css/images/ui-bg_glass_75_ffffff_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/css/images/ui-bg_inset-soft_95_fef1ec_1x100.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/css/images/ui-icons_222222_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/css/images/ui-icons_2e83ff_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/css/images/ui-icons_454545_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/css/images/ui-icons_888888_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/css/images/ui-icons_cd0a0a_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/css/jquery-ui-themes.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/css/reset.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/expand.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/images/259_close_12rollover1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/images/259_close_12rollover2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/images/260_collapse_12rollover1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/images/260_collapse_12rollover2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/images/261_expand_12rollover1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/images/261_expand_12rollover2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/images/close.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/images/close.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/images/close_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/images/close_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/images/divider.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/images/divider.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/images/expand.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/images/expand.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/images/expand_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/images/expand_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/images/images.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/images/transparent.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/reload.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/scripts/jquery-1.7.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/scripts/jquery-ui-1.8.10.custom.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/scripts/messagecenter.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/scripts/player/axplayer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/scripts/player/splitter.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/scripts/prototypePost.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/scripts/prototypePre.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/scripts/startPost.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/resources/scripts/startPre.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/start.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/start_c_1.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/start_g_0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/已选区.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/待选区.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/登录.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/编辑.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/选品池/选品区.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/data/document.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/data/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/关于我/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/关于我/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/完成答题/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/完成答题/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/开始答题/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/开始答题/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/科目1/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/科目1/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/题库/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/题库/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/题目1/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/题目1/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/题目1_1/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/题目1_1/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/题目2/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/题目2/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/题目2_1/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/题目2_1/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/题目3/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/题目3/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/题目3_1/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/题目3_1/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/题目4/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/题目4/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/题目4_1/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/题目4_1/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/题目5/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/题目5/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/题目5_1/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/files/题目5_1/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/images/关于我/u216.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/images/关于我/u219.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/images/关于我/u220.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/images/完成答题/u100.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/images/完成答题/u109.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/images/开始答题/u10.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/images/开始答题/u11.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/images/开始答题/u7.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/images/开始答题/u9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/images/题库/u115.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/images/题库/u122.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/images/题库/u123.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/images/题目1/u13.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/images/题目1/u19.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/images/题目1_1/u132.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/images/题目1_1/u133.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/images/题目1_1/u139.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/images/题目1_1/u140.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/index.rp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/debug/styles/debug.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/debug/styles/images/reset.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/debug/styles/images/reset_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/debug/styles/images/variables_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/debug/styles/images/variables_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/debug/styles/images/variables_off.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/debug/styles/images/variables_off.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/debug/styles/images/variables_on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/debug/styles/images/variables_on.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/page_notes/styles/images/back.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/page_notes/styles/images/back.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/page_notes/styles/images/back_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/page_notes/styles/images/back_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/page_notes/styles/images/footnotes.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/page_notes/styles/images/footnotes.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/page_notes/styles/images/footnotes_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/page_notes/styles/images/footnotes_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/page_notes/styles/images/footnotes_on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/page_notes/styles/images/footnotes_on.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/page_notes/styles/images/forward.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/page_notes/styles/images/forward.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/page_notes/styles/images/forward_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/page_notes/styles/images/forward_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/page_notes/styles/images/notes_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/page_notes/styles/images/notes_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/page_notes/styles/images/notes_off.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/page_notes/styles/images/notes_off.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/page_notes/styles/images/notes_on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/page_notes/styles/images/notes_on.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/page_notes/styles/page_notes.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/recordplay/recordplay.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/recordplay/styles/recordplay.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/079_page_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/086_case_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/225_responsive_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/228_togglenotes_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/229_variables_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/231_event_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/232_search_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/233_hyperlink_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/235_folderclosed_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/236_folderopen_16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/adaptivecheck.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/flow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/flow.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/folder_closed.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/folder_closed.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/folder_open.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/folder_open.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/hotspots.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/hotspots.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/hotspots_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/hotspots_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/hotspots_on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/hotspots_on.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/images.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/minus.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/note.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/note.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/page.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/page.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/plus.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/share.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/share.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/share_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/share_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/share_on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/share_on.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/sitemap_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/sitemap_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/sitemap_off.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/sitemap_off.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/sitemap_on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/sitemap_on.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/views.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/views.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/views_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/views_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/views_on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/images/views_on.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/plugins/sitemap/styles/sitemap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/Other.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/chrome/allow_access.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/chrome/axure-chrome-extension.crx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/chrome/axure_logo.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/chrome/axure_logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/chrome/chrome.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/chrome/extensions_menu.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/chrome/splitter.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/chrome/splitter.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/css/axure_rp_page.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/css/default.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/css/images/images.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/css/images/newwindow.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/css/images/note.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/css/images/ui-bg_flat_0_aaaaaa_40x100.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/css/images/ui-bg_glass_55_fbf9ee_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/css/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/css/images/ui-bg_glass_75_dadada_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/css/images/ui-bg_glass_75_e6e6e6_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/css/images/ui-bg_glass_75_ffffff_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/css/images/ui-bg_inset-soft_95_fef1ec_1x100.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/css/images/ui-icons_222222_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/css/images/ui-icons_2e83ff_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/css/images/ui-icons_454545_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/css/images/ui-icons_888888_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/css/images/ui-icons_cd0a0a_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/css/jquery-ui-themes.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/css/reset.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/expand.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/images/259_close_12rollover1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/images/259_close_12rollover2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/images/260_collapse_12rollover1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/images/260_collapse_12rollover2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/images/261_expand_12rollover1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/images/261_expand_12rollover2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/images/close.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/images/close.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/images/close_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/images/close_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/images/divider.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/images/divider.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/images/expand.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/images/expand.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/images/expand_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/images/expand_hover.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/images/images.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/images/transparent.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/reload.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/scripts/jquery-1.7.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/scripts/jquery-ui-1.8.10.custom.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/scripts/messagecenter.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/scripts/player/axplayer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/scripts/player/splitter.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/scripts/prototypePost.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/scripts/prototypePre.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/scripts/startPost.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/resources/scripts/startPre.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/start.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/start_c_1.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/start_g_0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/关于我.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/完成答题.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/开始答题.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/科目1.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/题库.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/题目1.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/题目1_1.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/题目2.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/题目2_1.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/题目3.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/题目3_1.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/题目4.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/题目4_1.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/题目5.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/驾考项目/题目5_1.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -617,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/驾考项目/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+            <state relative-caret-position="204">
+              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -707,12 +109,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526006296597</updated>
-      <workItem from="1526006297844" duration="68000" />
+      <workItem from="1526006297844" duration="370000" />
     </task>
+    <task id="LOCAL-00001" summary="提交原型">
+      <created>1526006527426</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526006527426</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68000" />
+    <option name="totallyTimeSpent" value="370000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -721,11 +131,11 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18282403" sideWeight="0.495671" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22934783" sideWeight="0.561117" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5141304" sideWeight="0.5700738" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.040173724" sideWeight="0.43888304" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.51521736" sideWeight="0.42676502" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5141304" sideWeight="0.42992625" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14392324" sideWeight="0.504329" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -745,6 +155,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交原型" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交原型" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -752,8 +166,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/驾考项目/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        <state relative-caret-position="204">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
           <folding />
         </state>
       </provider>
