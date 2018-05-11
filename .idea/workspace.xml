@@ -131,7 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1526006296597</updated>
       <workItem from="1526006297844" duration="650000" />
-      <workItem from="1526007650158" duration="570000" />
+      <workItem from="1526007650158" duration="578000" />
     </task>
     <task id="LOCAL-00001" summary="提交原型">
       <created>1526006527426</created>
@@ -203,11 +203,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526008212085</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="不提交idea">
+      <created>1526008223895</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1526008223895</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1220000" />
+    <option name="totallyTimeSpent" value="1228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
